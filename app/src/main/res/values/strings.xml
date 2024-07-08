@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exercise1</string>
+    <string name="navigate_button">Активити 2</string>
+    <string name="notification_button">Уведомление</string>
+</resources>
